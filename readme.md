@@ -2,7 +2,7 @@
 
 This repository contains a collection of Terraform modules designed to simplify and standardize cloud infrastructure management on the AWS platform.
 
-**Developer**: [Dmitrii Saprin](https://github.com/dmitrii-saprin)
+**Developer**: [Dmitrii Saprin](https://www.linkedin.com/in/dmitrii-s1989/)
 
 ## Repository Contents
 
